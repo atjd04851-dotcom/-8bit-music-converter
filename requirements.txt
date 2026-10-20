@@ -1,0 +1,5 @@
+streamlit>=1.36
+yt-dlp>=2024.8.6
+librosa>=0.10.2
+numpy>=1.26
+scipy>=1.11
